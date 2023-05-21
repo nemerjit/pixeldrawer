@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.title-text {
+  color: blue;
+  font-size: 50px;
+  margin-top: 300px;
+}
+
+#welcome-container {
+  background-color: yellow;
+  padding: 50px;
+}
+
